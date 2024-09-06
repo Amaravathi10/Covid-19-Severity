@@ -4,13 +4,6 @@
 
 This project aims to develop a predictive model that classifies the severity of COVID-19 spread across various districts based on features such as daily and cumulative cases, active cases, recovered cases, deceased cases, and testing data. The project also visualizes the top 10 districts with the highest active cumulative cases to understand the geographical distribution and intensity of the pandemic.
 
-## Authors
-
-- Palle Sriharsha (7037)
-- Pobbathi Amaravathi (7039)
-- Safooraa Amjad Khan (7043)
-- Sukrithi Mathur (7048)
-
 ## Project Details
 
 ### Problem Statement
@@ -55,9 +48,14 @@ The primary goal of this case study is to create a machine learning model that c
 ### Visualizations
 
 - **Severity Distribution**: Shows the distribution of severity levels.
+- ![Severity Distribution](visuals/severity.png)
 - **Confusion Matrix**: Evaluates model performance.
+- ![Confusion Matrix](visuals/confusionmatrix.png)
 - **Feature Importance**: Identifies key predictors of severity.
+- ![Feature Importance](visuals/features.png)
 - **Top Districts**: Highlights regions needing immediate intervention.
+- ![Top 15 Districts with Highest Active Cumulative Cases](visuals/top15_1.png)
+- ![Top 15 Districts with Highest Deceased Cumulative Cases](visuals/top15_2.png)
 
 ## Key Insights
 
