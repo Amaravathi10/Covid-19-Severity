@@ -46,7 +46,11 @@ The primary goal of this case study is to create a machine learning model that c
 - F1 Score: 99%
 
 ### Visualizations
-# Visualizations
+
+- **Severity Distribution**: Shows the distribution of severity levels.
+- **Confusion Matrix**: Evaluates model performance.
+- **Feature Importance**: Identifies key predictors of severity.
+- **Top Districts**: Highlights regions needing immediate intervention.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
@@ -58,21 +62,10 @@ The primary goal of this case study is to create a machine learning model that c
 
   <img src="visuals/top15_1.png" alt="Top Districts" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
 
+<img src="visuals/top15_2.png" alt="Top Districts" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
+
 </div>
 
-
-
-
-
-- **Severity Distribution**: Shows the distribution of severity levels.
-- ![Severity Distribution](visuals/severity.png)
-- **Confusion Matrix**: Evaluates model performance.
-- ![Confusion Matrix](visuals/confusionmatrix.png)
-- **Feature Importance**: Identifies key predictors of severity.
-- ![Feature Importance](visuals/features.png)
-- **Top Districts**: Highlights regions needing immediate intervention.
-- ![Top 15 Districts with Highest Active Cumulative Cases](visuals/top15_1.png)
-- ![Top 15 Districts with Highest Deceased Cumulative Cases](visuals/top15_2.png)
 
 ## Key Insights
 
