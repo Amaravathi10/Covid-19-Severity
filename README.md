@@ -50,13 +50,13 @@ The primary goal of this case study is to create a machine learning model that c
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="visuals/severity.png" alt="Severity Distribution" style="width: 300px; height: 200px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
+  <img src="visuals/severity.png" alt="Severity Distribution" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
 
-  <img src="visuals/confusionmatrix.png" alt="Confusion Matrix" style="width: 300px; height: 200px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
+  <img src="visuals/confusionmatrix.png" alt="Confusion Matrix" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
 
-  <img src="visuals/features.png" alt="Feature Importance" style="width: 300px; height: 200px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
+  <img src="visuals/features.png" alt="Feature Importance" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
 
-  <img src="visuals/top15_1.png" alt="Top Districts" style="width: 300px; height: 200px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
+  <img src="visuals/top15_1.png" alt="Top Districts" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ddd; padding: 5px; border-radius: 8px;">
 
 </div>
 
