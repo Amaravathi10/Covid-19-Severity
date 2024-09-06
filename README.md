@@ -1,4 +1,4 @@
-# Predicting COVID-19 Severity Using Machine Learning Algorithms
+# COVID-19 Severity Using Machine Learning Algorithms
 
 ## Overview
 
